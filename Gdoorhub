@@ -1,5 +1,4 @@
-local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
-
+local Rayfield = loadstring(game:HttpGet('https://raw.githubusercontent.com/coolcodeerguy/Doors/refs/heads/main/Gdoorhub'))()
 local Window = Rayfield:CreateWindow({
    Name = "gdoorhub",
    Icon = 0, -- Icon in Topbar. Can use Lucide Icons (string) or Roblox Image (number). 0 to use no icon (default).
